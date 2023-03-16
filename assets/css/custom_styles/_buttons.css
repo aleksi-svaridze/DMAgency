@@ -1,0 +1,68 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+/* ===== Button Background ===== */
+.btn-transparent-bg {
+    background: transparent;
+}
+.btn-black-bg {
+    background: var(--dma-color-black-primary);
+}
+.btn-white-bg {
+    background: var(--dma-color-white);
+}
+.btn-gray-tertiary-lightest-bg {
+    background: var(--dma-color-gray-tertiary-lightest);
+}
+.btn-yellow-secondary-bg {
+    background-color: var(--dma-color-yellow-secondary);
+}
+/* ===== Button Color ========= */
+.btn-color-black {
+    color: var(--dma-color-black-primary);
+}
+.btn-color-black-secondary {
+    color: var(--dma-color-black-secondary);
+}
+/* ===== Button borders ======= */
+.btn-border-thin {
+    border: 1px solid var(--dma-color-black-tertiary);
+}
+.btn-border-bold {
+    border: 1.5px solid var(--dma-color-black-primary);
+}
+/* ===== Button width ======= */
+.btn-width-173 {
+    width: 173px;
+}
+.btn-width-174 {
+    width: 174px;
+}
+.btn-width-182 {
+    width: 182px;
+}
+.btn-width-266 {
+    width: 266px;
+}
+.btn-width-293 {
+    width: 293px;
+}
+.btn-width-313 {
+    width: 313px;
+}
+/* ===== Button height ======= */
+.btn-height-62 {
+    height: 62px;
+}
+.btn-height-64 {
+    height: 64px;
+}
+/* ====== Button Font ======== */
+.btn-font-18 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+}

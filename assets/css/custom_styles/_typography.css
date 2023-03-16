@@ -1,0 +1,31 @@
+body {
+    font-family: var(--dma-font-nunito);
+    font-weight: 500;
+}
+.heading-secondary {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 110.5%; /* 110.5% === 44px */
+    color: var(--dma-color-white);
+}
+.heading-tertiary {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110.5%; /* identical to box height, or 28px */
+    color: var(--dma-color-white);
+}
+.tip-gray {
+    font-family: var(--dma-font-notosans);
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 156.5%; /* 156.5% === 23px */
+    letter-spacing: 0.135em;
+    color: var(--dma-color-gray-secondary);
+}
+.services_paragraph {
+    font-family: var(--dma-font-notosans);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 156.5%;  /* or 28px */
+    color: var(--dma-color-gray-secondary);
+}

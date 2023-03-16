@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Nunito;
+    src: url(../fonts/nunito/Nunito-Regular.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: NotoSans;
+    src: url(../fonts/notosans/NotoSans-Regular.ttf);
+    font-weight: 400;
+}

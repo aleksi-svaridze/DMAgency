@@ -1,0 +1,9 @@
+.services_card {
+    width: 352px;
+    height: 475px;
+    background: linear-gradient(180deg, #36363E 0%, var(--dma-color-black-primary) 100%);
+    border: 1px solid #424245;
+    border-radius: 30px;
+
+    padding: 41px 39px;
+}

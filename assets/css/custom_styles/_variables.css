@@ -1,0 +1,33 @@
+/* Digital Marketing Agency style variables */
+:root {
+    /* Font family */
+    --dma-font-nunito: Nunito;
+    --dma-font-notosans: NotoSans;
+
+    /* Colors */
+    --dma-color-black-primary:#292930;
+    --dma-color-black-primary-light: #3C3C45;
+
+    --dma-color-black-secondary: #525255;
+    --dma-color-black-secondary-light: #5B5B61;
+
+    --dma-color-black-tertiary: #535355;
+    --dma-color-black-tertiary-light: #727274;
+    
+
+    --dma-color-gray-primary:#555555;
+    --dma-color-gray-secondary: #D0D0D0;
+    --dma-color-gray-tertiary: #d3d3d3;
+
+    --dma-color-gray-tertiary-light: #f5f5f5;
+    --dma-color-gray-tertiary-lightest: #f6f6f6;
+    --dma-color-gray-tertiary-extra-light: #e2e2e2;
+
+    --dma-color-yellow-primary: #FEC90C;
+    --dma-color-yellow-secondary: #FFDC60;
+
+    --dma-color-blue: #5956E8;
+
+    --dma-color-white: #ffffff;
+   
+}

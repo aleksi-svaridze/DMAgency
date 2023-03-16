@@ -1,0 +1,11 @@
+
+
+.pricing {
+    background-color: var( --dma-color-white);
+    padding: 94px 0 170px;
+}
+
+.footer {
+    background-color: var( --dma-color-black-primary);
+    padding: 191px 0;
+}

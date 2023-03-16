@@ -1,0 +1,50 @@
+.services {
+    background-color: var( --dma-color-black-primary);
+    padding: 173px 0;
+}
+.services_text-content {
+    height: 126px;
+    background-image: url(../../imgs/icons/services/gear.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 88px 88px;
+
+    padding-left: 127px;
+}
+.icon-more {
+    width: 14px;
+    height: 15px;
+    display: block;
+}
+.yellow-slash {
+    color: var(--dma-color-yellow-primary);
+}
+.icon-container {
+    width: 153px;
+    height: 153px;
+    background-color: var( --dma-color-black-primary);
+}
+.icon-chat-marketing {
+    width: 75.63px;
+    height: 84.63px;
+}
+.icon-megaphone {
+    width: 86px;
+    height: 68.63px;
+}
+.icon-statistics {
+    width: 77.72px;
+    height: 76px;
+}
+.icon-startup {
+    width: 54.98px;
+    height: 83px;
+}
+.icon-funnel {
+    width: 68px;
+    height: 65.56px;
+}
+.icon-marketing-plan {
+    width: 64px;
+    height: 83.32px;
+}
