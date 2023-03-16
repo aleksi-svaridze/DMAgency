@@ -9,3 +9,16 @@
     width: 88px;
     height: 88px;
 }
+.pricing-list {
+    list-style: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 244%; /* 244% === 44px */
+    color: var(--dma-color-gray-primary);
+}
+.checked {
+    list-style-image: url(../../imgs/icons/pricing/checked-svg.svg);
+}
+.unchecked {
+    list-style-image: url(../../imgs/icons/pricing/unchecked.svg);
+}

@@ -25,3 +25,7 @@
 .blue-slash {
     color: var(--dma-color-blue);
 }
+.line {
+    border: 1px solid var(--dma-color-gray-tertiary);
+    margin: 30px auto;
+}
