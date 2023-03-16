@@ -1,0 +1,11 @@
+.pricing {
+    background-color: var( --dma-color-white);
+    padding: 94px 0 170px;
+}
+.pricing_text-content {
+    
+}
+.pricing-icon {
+    width: 88px;
+    height: 88px;
+}

@@ -19,10 +19,13 @@
 .yellow-slash {
     color: var(--dma-color-yellow-primary);
 }
+.blue-slash {
+    color: var(--dma-color-blue);
+}
 .icon-container {
     width: 153px;
     height: 153px;
-    background-color: var( --dma-color-black-primary);
+    background-color: var(--dma-color-black-primary);
 }
 .icon-chat-marketing {
     width: 75.63px;

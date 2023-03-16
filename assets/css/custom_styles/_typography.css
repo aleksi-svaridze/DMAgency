@@ -8,6 +8,12 @@ body {
     line-height: 110.5%; /* 110.5% === 44px */
     color: var(--dma-color-white);
 }
+.heading-secondary--black {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 110.5%; /* 110.5% === 44px */
+    color: var(--dma-color-black-primary);
+}
 .heading-tertiary {
     font-weight: 600;
     font-size: 25px;
@@ -21,6 +27,14 @@ body {
     line-height: 156.5%; /* 156.5% === 23px */
     letter-spacing: 0.135em;
     color: var(--dma-color-gray-secondary);
+}
+.tip-black {
+    font-family: var(--dma-font-notosans);
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 156.5%; /* 156.5% === 23px */
+    letter-spacing: 0.135em;
+    color: var(--dma-color-black-primary);
 }
 .services_paragraph {
     font-family: var(--dma-font-notosans);
