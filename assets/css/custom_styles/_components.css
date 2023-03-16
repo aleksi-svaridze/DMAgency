@@ -4,6 +4,24 @@
     background: linear-gradient(180deg, #36363E 0%, var(--dma-color-black-primary) 100%);
     border: 1px solid #424245;
     border-radius: 30px;
-
     padding: 41px 39px;
+}
+.pricing-card {
+    width: 389px;
+    height: 554px;
+    border-radius: 10px;
+    padding: 45px 38px;
+}
+.pricing-card--gray {
+    background: #F7F7F7;
+    border: 1px solid #E2E2E2;
+}
+.pricing-card--black {
+    background: #292930;
+}
+.yellow-slash {
+    color: var(--dma-color-yellow-primary);
+}
+.blue-slash {
+    color: var(--dma-color-blue);
 }
