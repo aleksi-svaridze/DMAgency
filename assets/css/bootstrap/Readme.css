@@ -1,0 +1,46 @@
+/* Changes made in bootstrap.css file */
+
+/* ========> Custom vertical gutter 
+.g-6,
+.gy-6 {
+  --bs-gutter-y: 1.5rem;
+}
+@media (min-width: 768px) {
+  .g-6,
+  .gy-6 {
+    --bs-gutter-y: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .g-6,
+  .gy-6 {
+    --bs-gutter-y: 6rem;
+  }
+}
+@media (min-width: 1200px) {
+  .g-6,
+  .gy-6 {
+    --bs-gutter-y: 2rem;
+  }
+}
+@media (min-width: 1300px) {
+  .g-6,
+  .gy-6 {
+    --bs-gutter-y: 3rem;
+  }
+}
+@media (min-width: 1400px) {
+  .g-6,
+  .gy-6 {
+    --bs-gutter-y: 4.2rem;
+  }
+}
+<================================ */
+
+/* ========> container
+@media (min-width: 1300px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+<================================ */

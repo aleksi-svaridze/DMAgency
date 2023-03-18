@@ -12,6 +12,19 @@
     border-radius: 10px;
     padding: 45px 38px;
 }
+@media (min-width: 992px) {
+    .pricing-card {
+        width: 100%;
+    }
+}
+@media (min-width: 1300px) {
+    .pricing-card {
+        width: 389px;
+        height: 554px;
+        border-radius: 10px;
+        padding: 45px 38px;
+    }
+}
 .pricing-card--gray {
     background: #F7F7F7;
     border: 1px solid #E2E2E2;
@@ -28,4 +41,19 @@
 .line {
     border: 1px solid var(--dma-color-gray-tertiary);
     margin: 30px auto;
+}
+.popular {
+    width: 89px;
+    height: 40px;
+    background: var(--dma-color-yellow-secondary);
+    border-radius: 9px;
+
+    font-family: var(--dma-font-notosans);
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 244%; /* identical to box height, or 37px */
+    color: var(--dma-color-black-primary);
+
+    top: 22px;
+    right: 32px;
 }

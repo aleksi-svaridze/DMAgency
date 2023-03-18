@@ -7,6 +7,9 @@
 .mb-28 {
     margin-bottom: 28px;
 }
+.mb-30 {
+    margin-bottom: 30px;
+}
 .mb-34 {
     margin-bottom: 34px;
 }
@@ -18,4 +21,93 @@
 }
 .mb-90 {
     margin-bottom: 90px;
+}
+/* Responsive spacing for columns */
+.ms-auto-right-box {
+    margin-left: auto;
+    margin-right: auto;
+}
+.me-auto-left-box {
+    margin-left: auto;
+    margin-right: auto;
+}
+.mx-auto-middle-box {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 576px) {
+    .ms-auto-right-box {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .me-auto-left-box {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .mx-auto-middle-box {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+@media (min-width: 768px) {
+    .ms-auto-right-box {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .me-auto-left-box {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .mx-auto-middle-box {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+@media (min-width: 992px) {
+    .ms-auto-right-box {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .me-auto-left-box {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .mx-auto-middle-box {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+@media (min-width: 1200px) {
+    .ms-auto-right-box {
+        margin-left: auto;
+    }
+
+    .mx-auto-middle-box {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+@media (min-width: 1300px) {
+    .ms-auto-right-box {
+        margin-left: auto;
+    }
+
+    .mx-auto-middle-box {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+@media (min-width: 1400px) {
+    .ms-auto-right-box {
+        margin-left: auto;
+    }
+
+    .mx-auto-middle-box {
+        margin-right: auto;
+        margin-left: auto;
+    }
 }

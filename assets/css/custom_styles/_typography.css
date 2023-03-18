@@ -20,6 +20,25 @@ body {
     line-height: 110.5%; /* identical to box height, or 28px */
     color: var(--dma-color-white);
 }
+.service-title {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 110.5%;  /* identical to box height, or 28px */
+    color: var(--dma-color-black-primary);
+}
+.price-number {
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 110.5%; /* 110.5% === 55px */
+    color: var(--dma-color-black-primary);
+}
+.price-in-month {
+    font-family: var(--dma-font-notosans);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 244%; /* identical to box height, or 44px */
+    color: var(--dma-color-gray-primary);
+}
 .tip-gray {
     font-family: var(--dma-font-notosans);
     font-size: 15px;

@@ -1,4 +1,4 @@
-.dma-container {
+/* .dma-container {
     max-width: 100%;
     margin: 0 auto;
 }
@@ -18,24 +18,24 @@
     .dma-container {
       max-width: 540px;
     }
+}
+@media (min-width: 768px) {
+  .dma-container {
+    max-width: 720px;
   }
-  @media (min-width: 768px) {
-    .dma-container {
-      max-width: 720px;
-    }
+}
+@media (min-width: 992px) {
+  .dma-container {
+    max-width: 960px;
   }
-  @media (min-width: 992px) {
-    .dma-container {
-      max-width: 960px;
-    }
+}
+@media (min-width: 1200px) {
+  .dma-container {
+    max-width: 1140px;
   }
-  @media (min-width: 1200px) {
-    .dma-container {
-      max-width: 1140px;
-    }
+}
+@media (min-width: 1400px) {
+  .dma-container {
+    max-width: 1200px;
   }
-  @media (min-width: 1400px) {
-    .dma-container {
-      max-width: 1200px;
-    }
-  }
+} */

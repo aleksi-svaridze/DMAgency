@@ -4,6 +4,7 @@
     align-items: center;
     border-radius: 7px;
 }
+
 /* ===== Button Background ===== */
 .btn-transparent-bg {
     background: transparent;
@@ -23,6 +24,9 @@
 /* ===== Button Color ========= */
 .btn-color-black {
     color: var(--dma-color-black-primary);
+}
+.btn-color-white {
+    color: var(--dma-color-white);
 }
 .btn-color-black-secondary {
     color: var(--dma-color-black-secondary);

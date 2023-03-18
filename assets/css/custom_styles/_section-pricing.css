@@ -9,7 +9,26 @@
     width: 88px;
     height: 88px;
 }
+.pricing-card--gear-icon {
+    background-image: url(../../imgs/icons/pricing/pricing-gear.svg);
+    background-size: 49px 52px;
+}
+.pricing-card--coin-icon {
+    background-image: url(../../imgs/icons/pricing/pricing-coin.svg);
+    background-size: 49px 50px;
+}
+.pricing-card--rocket-icon {
+    background-image: url(../../imgs/icons/pricing/pricing-rocket.svg);
+    background-size: 37px 55px;
+}
+.pricing-card--text-content {
+    background-repeat:  no-repeat;
+    background-position: 0 50%;
+    padding-left: 83px;
+    height: 87px;
+}
 .pricing-list {
+    font-family: var(--dma-font-notosans);
     list-style: none;
     font-weight: 400;
     font-size: 18px;
