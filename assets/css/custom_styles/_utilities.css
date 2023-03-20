@@ -94,8 +94,12 @@
 @media (min-width: 1300px) {
     .ms-auto-right-box {
         margin-left: auto;
+        margin-right: 0;
     }
-
+    .me-auto-left-box {
+        margin-right: auto;
+        margin-left: 0;
+    }
     .mx-auto-middle-box {
         margin-right: auto;
         margin-left: auto;
@@ -105,7 +109,9 @@
     .ms-auto-right-box {
         margin-left: auto;
     }
-
+    .me-auto-left-box {
+        margin-right: auto;
+    }
     .mx-auto-middle-box {
         margin-right: auto;
         margin-left: auto;

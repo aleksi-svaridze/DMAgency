@@ -2,3 +2,12 @@
     background-color: var( --dma-color-black-primary);
     padding: 191px 0;
 }
+.logo-white {
+    width: 239px;
+    height: 81.16px;
+}
+
+.footer-megaphone {
+    width: 287px;
+    height: 202px;
+}

@@ -12,6 +12,13 @@
     border-radius: 10px;
     padding: 45px 38px;
 }
+.subscribe-card {
+    padding: 49px 53px;
+    width: 399px;
+    height: 652.16px;
+    background: var(--dma-color-black-primary-light);
+    border-radius: 7px;
+}
 @media (min-width: 992px) {
     .pricing-card {
         width: 100%;
