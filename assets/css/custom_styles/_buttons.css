@@ -94,3 +94,8 @@
     font-size: 25px;
     line-height: 156.5%;
 }
+
+.dropdown-item,
+.nav-link {
+    color: var(--dma-color-black-primary) !important;
+}

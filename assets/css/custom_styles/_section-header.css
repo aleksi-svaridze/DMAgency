@@ -1,0 +1,13 @@
+.header-nav-link {
+    display: initial;
+    align-items: initial;
+    justify-content: initial;
+}
+
+@media (min-width: 992px) {
+    .header-nav-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
