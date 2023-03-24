@@ -11,3 +11,17 @@
     width: 287px;
     height: 202px;
 }
+.subscribe-card__form input[type=email] {
+    border-radius: 7px;
+}
+.subscribe-card__form input[type=email]:focus {
+    outline: none;
+}
+.subscribe-card__form input::placeholder {
+    font-size: 18px;
+    line-height: 160%; /* 160% === 29px */
+    color: var(--dma-color-white);
+}
+.subscribe-card__form input[type=submit]:hover {
+    background-color: var(--dma-color-yellow-secondary);
+}

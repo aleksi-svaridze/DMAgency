@@ -12,6 +12,9 @@
 .btn-black-bg {
     background: var(--dma-color-black-primary);
 }
+.btn-black-secondary-light-bg {
+    background: var(--dma-color-black-secondary-light);
+}
 .btn-white-bg {
     background: var(--dma-color-white);
 }
