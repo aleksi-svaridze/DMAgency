@@ -4,6 +4,10 @@
 .mb-14 {
     margin-bottom: 14px;
 }
+.my-18 {
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
 .mb-28 {
     margin-bottom: 28px;
 }
@@ -21,6 +25,19 @@
 }
 .mb-90 {
     margin-bottom: 90px;
+}
+.mt-30 {
+    margin-top: 30px;
+}
+.divider {
+    background-color: var(--dma-color-black-tertiary-light);
+    height: 1px;
+}
+.divider-y-50 {
+    margin: 50px 0;
+}
+.divider-t-50 {
+    margin-top: 50px;
 }
 /* Responsive spacing for columns */
 .ms-auto-right-box {

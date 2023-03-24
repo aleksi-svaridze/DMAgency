@@ -12,6 +12,9 @@
 .btn-black-bg {
     background: var(--dma-color-black-primary);
 }
+.btn-black-primary-light-bg {
+    background: var(--dma-color-black-primary-light);
+}
 .btn-black-secondary-light-bg {
     background: var(--dma-color-black-secondary-light);
 }
@@ -34,6 +37,9 @@
 .btn-color-black-secondary {
     color: var(--dma-color-black-secondary);
 }
+.btn-color-yellow-secondary {
+    color: var(--dma-color-yellow-secondary);
+}
 /* ===== Button borders ======= */
 .btn-border-thin {
     border: 1px solid var(--dma-color-black-tertiary);
@@ -50,6 +56,9 @@
 }
 .btn-width-182 {
     width: 182px;
+}
+.btn-width-255 {
+    width: 255px;
 }
 .btn-width-266 {
     width: 266px;
@@ -72,4 +81,16 @@
     font-weight: 500;
     font-size: 18px;
     line-height: 160%;
+}
+.btn-font-18-noto {
+    font-family: var(--dma-font-notosans);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+}
+.btn-font-25 {
+    font-family: var(--dma-font-notosans);
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 156.5%;
 }

@@ -25,3 +25,23 @@
 .subscribe-card__form input[type=submit]:hover {
     background-color: var(--dma-color-yellow-secondary);
 }
+.footer--call-icon {
+    height: 22px;
+    width: 22px;
+}
+.footer--location-icon {
+    height: 22px;
+    width: 16px;
+}
+.footer--pages-icon {
+    width: 30px;
+    height: 30px;
+}
+.footer--utility-icon {
+    width: 28px;
+    height: 28px;
+}
+.footer--follows-icon {
+    width: 20px;
+    height: 16px;
+}
