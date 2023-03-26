@@ -2,6 +2,19 @@ body {
     font-family: var(--dma-font-nunito);
     font-weight: 500;
 }
+.banner-title {
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 110.5%;
+    color: var(--dma-color-black-primary);
+}
+.banner-description {
+    font-family: var(--dma-font-notosans);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 156.5%;
+    color: var(--dma-color-gray-primary);
+}
 .heading-secondary {
     font-weight: 600;
     font-size: 40px;
@@ -54,6 +67,9 @@ body {
     line-height: 156.5%; /* 156.5% === 23px */
     letter-spacing: 0.135em;
     color: var(--dma-color-black-primary);
+}
+.blue-highlight {
+    color: var(--dma-color-blue);
 }
 .services_paragraph {
     font-family: var(--dma-font-notosans);

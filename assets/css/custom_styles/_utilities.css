@@ -1,6 +1,10 @@
 .ms-8 {
     margin-left: 8px;
 }
+.ms-58 {
+    margin-left: 58px;
+}
+
 .mb-14 {
     margin-bottom: 14px;
 }
@@ -29,11 +33,25 @@
 .mt-30 {
     margin-top: 30px;
 }
-.ms-58 {
-    margin-left: 58px;
+
+.me-20 {
+    margin-right: 20px;
 }
 .me-43 {
     margin-right: 43px;
+}
+.me-60 {
+    margin-right: 0;
+}
+@media (min-width: 992px) {
+    .me-60 {
+        margin-right: 20px;
+    }
+}
+@media (min-width: 1200px) {
+    .me-60 {
+        margin-right: 60px;
+    }
 }
 .divider {
     background-color: var(--dma-color-black-tertiary-light);

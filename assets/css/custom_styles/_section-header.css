@@ -3,7 +3,11 @@
     align-items: initial;
     justify-content: initial;
 }
-
+.active {
+    border-bottom: 3px solid red;
+}
+/* #FFDC60 */
+/* #5956E8 */
 @media (min-width: 992px) {
     .header-nav-link {
         display: flex;
